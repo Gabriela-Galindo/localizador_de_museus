@@ -1,13 +1,11 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Localizador de Museus
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+### Português
+### Projeto realizado durante o curso da Trybe, módulo da eletiva Java, seção sobre Java Web
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+#### Este projeto consistia em criar um localizador de museus perto do usário, utilizando o Spring para criar uma API com dados sobre museus no Brasil. A API foi implementada com uma camada de controle e serviço, foi feito o tratamento de erro, bem como teste unitários para a aplicação.
+
+### English
+### Project done during the Trybe course, Java elective Module, section about Java Web
+
+#### This project consisted of creating a museum locator close to the user, using Spring to create an API with data about museums in Brazil. The API was implemented with a control and service layer, error handling was carried out, as well as unit testing for the application.
